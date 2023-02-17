@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-premier-league/static/css/main.63990340.css",
+    "main.js": "/react-premier-league/static/js/main.3567bb06.js",
+    "static/media/kupa.png": "/react-premier-league/static/media/kupa.7efee9bb7e2f62fa2c03.png",
+    "index.html": "/react-premier-league/index.html",
+    "main.63990340.css.map": "/react-premier-league/static/css/main.63990340.css.map",
+    "main.3567bb06.js.map": "/react-premier-league/static/js/main.3567bb06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63990340.css",
+    "static/js/main.3567bb06.js"
+  ]
+}
